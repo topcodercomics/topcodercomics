@@ -1,4 +1,6 @@
-## Hi there 👋
+## Top Coder Comics 👋
+x.com/topcodercomics 
+Comics about Cody, a top coder who is a bit of a nerd. He loves AI, coding, and the latest tech... 
 
 <!--
 **topcodercomics/topcodercomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
